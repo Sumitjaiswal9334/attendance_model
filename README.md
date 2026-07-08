@@ -6,9 +6,7 @@
 AI-Powered Smart Attendance System using Face Recognition & Voice Authentication
 </p>
 
-<p align="center">
-<img src="assets/homepage.png" width="900"/>
-</p>
+
 
 <p align="center">
 
