@@ -1,6 +1,4 @@
-# 🤖 AttendAI
-
-<h3 align="center">The Future of Smart Attendance.</h3>
+# 🤖 AttendAI : Future of Smart Attendance
 
 <p align="center">
 AI-Powered Smart Attendance System using Face Recognition & Voice Authentication
