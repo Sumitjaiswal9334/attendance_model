@@ -11,7 +11,7 @@ def get_base64(image_name):
 
 def header_home():
 
-    logo_url = f"data:image/png;base64,{get_base64('teacher_side.png')}"
+    logo_url = f"data:image/png;base64,{get_base64('attendai_logo.png')}"
 
     st.markdown(f"""
         <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; margin-bottom:20px; margin-top:30px">
@@ -34,7 +34,7 @@ def header_home():
 
 def header_dashboard():
 
-    logo_url = f"data:image/png;base64,{get_base64('teacher_side.png')}"
+    logo_url = f"data:image/png;base64,{get_base64('attendai_logo.png')}"
 
     st.markdown(f"""
         <div style="display:flex; align-items:center; justify-content:center;">
