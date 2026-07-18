@@ -8,7 +8,7 @@ from src.ui.base_layout import style_base_layout, style_background_home
 
 
 def get_base64(image_name):
-    image_path = Path(__file__).parent / "screens" / image_name
+    image_path = Path(__file__).parent / image_name
     with open(image_path, "rb") as img:
         return base64.b64encode(img.read()).decode()
 
