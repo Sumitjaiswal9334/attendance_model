@@ -38,7 +38,7 @@ def header_dashboard():
 
     st.markdown(f"""
         <div style="display:flex; align-items:center; justify-content:center;">
-            <img src='{logo_url}' style='height:40px; margin-right:-4px;' />
+            <img src='{logo_url}' style='height:85px; margin-right:-4px;' />
             <div class="brand">
                 <span style="color:#FFFFFF;font-size:44px;font-family:'Poppins',sans-serif;font-weight:800;">ATTEND</span>
                 <span style="color:#FACC15;font-size:44px;font-family:'Poppins',sans-serif;font-weight:800;">AI</span>
